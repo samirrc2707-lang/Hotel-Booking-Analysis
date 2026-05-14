@@ -21,7 +21,7 @@ Hotel_booking Analysis project.twbx
 ## Dashboard Screenshots
 
 ### Screenshot 1
-![Dashboard 1](Hotel.ss1)
+![Dashboard 1](Hotel.ss1.png)
 
 ### Screenshot 2
-![Dashboard 2](Hotel.ss2)
+![Dashboard 2](Hotel.ss2.png)
