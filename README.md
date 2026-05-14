@@ -1,4 +1,4 @@
-# Hotel-Booking-Analysis
+# Hotel-Booking & Revenue Analysis
 Hotel Booking Analysis using Tableau
 
 ## Project Overview
